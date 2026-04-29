@@ -63,13 +63,13 @@
 <h2 align="center">📊 3D Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=YOUR_USERNAME&theme=night" />
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=hassanakhlaqi&theme=night" />
 </p>
 
 <h2 align="center">⚡ Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassanakhlaqi&theme=react-dark&hide_border=true" />
 </p>
 
 
