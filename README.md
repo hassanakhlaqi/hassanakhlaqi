@@ -36,20 +36,6 @@
 
 ---
 
-<!-- 📊 GITHUB STATS -->
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" height="150" />
-</p>
-
----
-
 <!-- 🔥 PROJECT SHOWCASE -->
 <h2 align="center">🔥 Featured Projects</h2>
 
