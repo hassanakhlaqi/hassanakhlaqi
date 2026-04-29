@@ -89,7 +89,7 @@
 
 <!-- 💡 VISITOR COUNTER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=hassanakhlaqi&label=Profile+Views&color=blueviolet&style=flat" />
 </p>
 
 ---
