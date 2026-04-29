@@ -95,7 +95,7 @@ Model: KNN + Random Forest
 Dataset: Network Traffic Logs
 Detection: Real-time
 Latency: <200ms
-
+```
 
 ---
 
