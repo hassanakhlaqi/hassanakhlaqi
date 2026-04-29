@@ -60,11 +60,14 @@
 
 ---
 
-<h2 align="center">📊 3D Contribution Graph</h2>
+<h2 align="center">🧠 AI Model Status</h2>
 
-<p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=hassanakhlaqi&theme=night" />
-</p>
+```diff
++ Model: Network Anomaly Detector
++ Accuracy: 94.2%
++ Status: Active 🟢
++ Last Training: 2026
+
 
 <h2 align="center">⚡ Activity Graph</h2>
 
