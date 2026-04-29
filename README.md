@@ -68,7 +68,7 @@
 ## ⚡ Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassanakhlaqi&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -76,7 +76,7 @@
 ## 📊 3D Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=YOUR_USERNAME&theme=night" />
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=hassanakhlaqi&theme=night" />
 </p>
 
 ---
@@ -106,24 +106,21 @@ Latency: <200ms
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:akhlaqihassan6@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/hassanakhlaqi">
     <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<!-- 🧠 PERSONAL BRAND LINE -->
-<h3 align="center">⚡ AI • Cybersecurity • Intelligent Systems ⚡</h3>
 
----
 
 <!-- 👁️ VISITOR COUNTER + STATUS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=hassanakhlaqi&label=Profile+Views&color=blueviolet&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Profile-Active-00f7ff?style=for-the-badge" />
 </p>
 
