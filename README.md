@@ -1,21 +1,17 @@
+<h1 align="center">Hi 👋, I'm Hassan Wellcome to my profile </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;AI%20%7C%20ML%20Developer;Always+Learning...&center=true&width=500&height=65">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="220"/>
+</p>
+
+
+
 # 💫 About Me:
-🔭 I’m currently working on<br>Machine Learning projects focused on real-world problem solving, including model training, evaluation, and deployment. Recently exploring areas like anomaly detection, recommendation systems, and predictive analytics.<br>👯 I’m looking to collaborate on<br>AI/ML projects, especially in domains like computer vision, NLP, or cybersecurity-based ML systems. Open to contributing to open-source and research-driven work.<br>🤝 I’m looking for help with<br>Improving model optimization techniques, deployment pipelines (MLOps), and scaling ML systems for production-level applications.<br>🌱 I’m currently learning<br>Advanced Machine Learning concepts, Deep Learning architectures, and tools like TensorFlow, PyTorch, and model deployment frameworks (Docker, FastAPI).<br>💬 Ask me about<br>Machine Learning algorithms, model building, data preprocessing, and beginner-to-intermediate AI/ML project guidance.<br>⚡ Fun fact<br>I enjoy turning raw data into meaningful insights and building models that actually solve real-world problems.
-
-
-
-<h1 align="center">Hi 👋, I'm Mohammad</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;AI%20%7C%20ML%20Developer;Always+Learning...&center=true&width=500&height=45">
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="180"/>
-</p>
-
-
-
-
+🔭 I’m currently working on<br>Machine Learning projects focused on real-world problem solving, including model training, evaluation, and deployment. Recently exploring areas like anomaly detection, recommendation systems, and predictive analytics.<br>👯 I’m looking to collaborate on<br>AI/ML projects, especially in domains like computer vision, NLP, or cybersecurity-based ML systems. Open to contributing to open-source and research-driven work.<br>🤝 I’m looking for help with<br>Improving model optimization techniques, deployment pipelines (MLOps), and scaling ML systems for production-level applications.<br>🌱 I’m currently learning<br>Advanced Machine Learning concepts, Deep Learning architectures, and tools like TensorFlow, PyTorch, and model deployment frameworks (Docker, FastAPI).
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@yardanico) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MOHD HASSAN) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@BestMixtu44284) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@eyeshowspeed786) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akhlaqihassan6@gmail.com) 
