@@ -1,6 +1,6 @@
 <!-- 🌐 ADVANCED GITHUB PROFILE README (WEBSITE STYLE) -->
 
-<h1 align="center">Hi 👋, I'm Mohammad</h1>
+<h1 align="center">Hi 👋, I'm Hassan</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Cybersecurity+Enthusiast;Building+Real+World+Projects;Future+Innovator" />
