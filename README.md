@@ -1,6 +1,6 @@
 <!-- 🌐 ADVANCED GITHUB PROFILE README (WEBSITE STYLE) -->
 
-<h1 align="center">Hi 👋, I'm Hassan</h1>
+<h1 align="center">Hi , I'm Hassan</h1>
 
 ---
 
@@ -12,19 +12,19 @@
 ---
 
 <!-- 👨‍💻 ABOUT SECTION -->
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center"> About Me</h2>
 
 <p align="center">
-  🎓 CSE AI/ML Student <br>
-  🤖 Building ML Models & AI Systems <br>
-  🔐 Cybersecurity & Threat Detection Enthusiast <br>
-  💡 Focused on real-world impactful solutions
+  -> CSE AI/ML Student <br>
+  -> Building ML Models & AI Systems <br>
+  -> Cybersecurity & Threat Detection Enthusiast <br>
+  -> Focused on real-world impactful solutions
 </p>
 
 ---
 
 <!-- 🧠 SKILLS WITH ICONS -->
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">  Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,tensorflow,pytorch,sklearn,pandas,numpy,git,github,vscode" />
@@ -32,27 +32,27 @@
 
 ---
 
-<!-- 🔥 PROJECT SHOWCASE -->
-<h2 align="center">🔥 Featured Projects</h2>
+<!--  PROJECT SHOWCASE -->
+<h2 align="center"> Featured Projects</h2>
 
 <table align="center">
 <tr>
 <td width="300">
-<h3>🧠 Network Anomaly Detection</h3>
+<h3> ⚫ Network Anomaly Detection</h3>
 <p>ML model to detect unusual network behavior in real-time.</p>
 </td>
 <td width="300">
-<h3>🤖 AI Chatbot</h3>
+<h3> ⚫ AI Chatbot</h3>
 <p>Conversational chatbot with NLP and intelligent responses.</p>
 </td>
 </tr>
 <tr>
 <td width="300">
-<h3>🔐 Cybersecurity Tool</h3>
+<h3> ⚫ Cybersecurity Tool</h3>
 <p>Real-time threat monitoring and alerting system.</p>
 </td>
 <td width="300">
-<h3>📊 ML Dashboard</h3>
+<h3> ⚫ ML Dashboard</h3>
 <p>Interactive dashboard for ML model visualization.</p>
 </td>
 </tr>
@@ -65,7 +65,7 @@
 
 ---
 
-## ⚡ Activity Graph
+##  Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassanakhlaqi&theme=react-dark&hide_border=true" />
@@ -75,7 +75,7 @@
 
 
 
-## 🔐 Network Anomaly Detection (AI Status Panel)
+##  Network Anomaly Detection (AI Status Panel)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Model-Anomaly_AI-00f7ff?style=for-the-badge" />
@@ -128,4 +128,4 @@ Latency: <200ms
 ---
 
 <!-- 🔥 FINAL SIGNATURE -->
-<h3 align="center">🚀 Building Intelligent & Secure Systems 🚀</h3>
+<h3 align="center"> Building Intelligent & Secure Systems </h3>
