@@ -68,7 +68,7 @@
 ##  Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baavanadhaz&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassanakhlaqi&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -114,7 +114,7 @@ Latency: <200ms
 
 <!-- 👁️ VISITOR COUNTER + STATUS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Baavanadhaz&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=hassanakhlaqi&label=Profile+Views&color=blueviolet&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Profile-Active-00f7ff?style=for-the-badge" />
 </p>
 
