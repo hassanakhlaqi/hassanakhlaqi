@@ -60,14 +60,36 @@
 
 ---
 
-<h2 align="center">🧠 AI Model Status</h2>
+
+<!-- 🧠 NETWORK ANOMALY DETECTION DASHBOARD -->
+
+<h2 align="center">🔐 Network Anomaly Detection System</h2>
+
 <p align="center">
-```diff
-+ Model: Network Anomaly Detector
-+ Accuracy: 94.2%
-+ Status: Active 🟢
-+ Last Training: 2026
+  <img src="https://img.shields.io/badge/Model-Anomaly_Detector_AI-00f7ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Threat_Level-Low-brightgreen?style=for-the-badge" />
 </p>
+
+---
+
+### ⚙️ Model Architecture
+
+```yaml
+Model Type: Supervised + Unsupervised Hybrid
+Algorithms: KNN, Random Forest
+Anomaly Method: Distance-based + Classification
+Dataset: Network Traffic Logs (Custom / CICIDS)
+Input Features:
+  - Packet Size
+  - Flow Duration
+  - Protocol Type
+  - Source/Destination IP
+  - Flags
+Target:
+  - Normal (0)
+  - Anomaly (1)
+
 
 <h2 align="center">⚡ Activity Graph</h2>
 
