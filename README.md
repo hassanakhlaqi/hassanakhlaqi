@@ -78,7 +78,7 @@
 ##  Network Anomaly Detection (AI Status Panel)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Model-Anomaly_AI-00f7ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Model-Anomaly_AI-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/System-Secure-blue?style=for-the-badge" />
 </p>
