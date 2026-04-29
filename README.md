@@ -68,7 +68,7 @@
 + Status: Active 🟢
 + Last Training: 2026
 
-
+---
 <h2 align="center">⚡ Activity Graph</h2>
 
 <p align="center">
