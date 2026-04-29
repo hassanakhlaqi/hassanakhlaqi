@@ -61,44 +61,45 @@
 ---
 
 
-<!-- 🧠 NETWORK ANOMALY DETECTION DASHBOARD -->
+<!-- ⚡ ADVANCED GITHUB VISUAL DASHBOARD -->
 
-<h2 align="center">🔐 Network Anomaly Detection System</h2>
+---
+
+## ⚡ Activity Graph
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Model-Anomaly_Detector_AI-00f7ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Threat_Level-Low-brightgreen?style=for-the-badge" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-### ⚙️ Model Architecture
+## 📊 3D Contribution Graph
+
+<p align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=YOUR_USERNAME&theme=night" />
+</p>
+
+---
+
+## 🔐 Network Anomaly Detection (AI Status Panel)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Model-Anomaly_AI-00f7ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System-Secure-blue?style=for-the-badge" />
+</p>
 
 ```yaml
-Model Type: Supervised + Unsupervised Hybrid
-Algorithms: KNN, Random Forest
-Anomaly Method: Distance-based + Classification
-Dataset: Network Traffic Logs (Custom / CICIDS)
-Input Features:
-  - Packet Size
-  - Flow Duration
-  - Protocol Type
-  - Source/Destination IP
-  - Flags
-Target:
-  - Normal (0)
-  - Anomaly (1)
-
-
-<h2 align="center">⚡ Activity Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassanakhlaqi&theme=react-dark&hide_border=true" />
-</p>
+System: Network Anomaly Detection
+Model: KNN + Random Forest
+Dataset: Network Traffic Logs
+Detection: Real-time
+Latency: <200ms
 
 
 ---
+
+
 <!-- 🌐 SOCIAL LINKS -->
 <h2 align="center">🌐 Connect With Me</h2>
 
