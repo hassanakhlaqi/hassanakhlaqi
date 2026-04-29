@@ -60,14 +60,11 @@
 
 ---
 
-<!-- 🐍 CONTRIBUTION SNAKE -->
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center">📊 3D Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=YOUR_USERNAME&theme=night" />
 </p>
-
----
 
 <!-- 🌐 SOCIAL LINKS -->
 <h2 align="center">🌐 Connect With Me</h2>
