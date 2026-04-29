@@ -73,13 +73,7 @@
 
 ---
 
-## 📊 3D Contribution Graph
 
-<p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=hassanakhlaqi&theme=night" />
-</p>
-
----
 
 ## 🔐 Network Anomaly Detection (AI Status Panel)
 
